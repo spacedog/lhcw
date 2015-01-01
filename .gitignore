@@ -2,3 +2,5 @@
 *
 # Include only *.c files
 !*.c
+# Include .gitignore
+!.gitignore
