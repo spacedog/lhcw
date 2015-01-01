@@ -1,0 +1,4 @@
+# Excluding all files
+*
+# Include only *.c files
+!*.c
